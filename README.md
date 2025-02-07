@@ -23,7 +23,6 @@ This repository is a collaborative effort by **RedTeamRD.org** and **HackConRD.o
 ## 🚀 How to Contribute?
 💡 **Fork** this repository and submit a Pull Request with your contribution.  
 👥 Share your **IoCs, detection rules, and threat research**.  
-📩 Contact us at [contacto@redteamrd.org](mailto:contacto@redteamrd.org) for inquiries.  
 
 ---
 
