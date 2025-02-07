@@ -1,4 +1,4 @@
-#🛡️Threat Hunting Team (THT)🔍  
+#🛡️THREAT HUNTING TEAM (THT)🔍
 
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
 [![Conference](https://img.shields.io/badge/Event-HackConRD.org-red.svg)](https://hackconrd.org)
