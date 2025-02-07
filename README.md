@@ -1,7 +1,6 @@
 #🛡️THREAT HUNTING TEAM (THT)🔍
 
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
-[![Conference](https://img.shields.io/badge/Event-HackConRD.org-red.svg)](https://hackconrd.org)
 [![MITRE ATT&CK](https://img.shields.io/badge/Mapped%20to-MITRE%20ATT%26CK-orange.svg)](https://attack.mitre.org)
 [![CISA Alerts](https://img.shields.io/badge/CISA%20Alerts-Warning-red)](https://www.cisa.gov/stopransomware/alerts)
 [![NIST Cybersecurity News](https://img.shields.io/badge/NIST%20Cyber%20News-Important-blue)](https://csrc.nist.gov/news)
