@@ -1,11 +1,11 @@
-# 🛡️ RedTeamRD & HackConRD Threat Intelligence Hub 🔍  
+#🛡️Threat-Hunting-Team (THT)🔍  
 
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
 [![Conference](https://img.shields.io/badge/Event-HackConRD.org-red.svg)](https://hackconrd.org)
 [![MITRE ATT&CK](https://img.shields.io/badge/Mapped%20to-MITRE%20ATT%26CK-orange.svg)](https://attack.mitre.org)
 
 ## 🔥 About the Project
-This repository is a collaborative effort by **RedTeamRD.org** and **HackConRD.org**, aimed at strengthening **Cyber Threat Intelligence (CTI)** and **Threat Hunting** in corporate, government, and community environments.
+This repository is a collaborative effort by **RedTeamRD.org**, aimed at strengthening **Cyber Threat Intelligence (CTI)** and **Threat Hunting** in corporate, government, and community environments.
 
 📢 **Objective:** Share tools, detection rules, and analyses to improve threat detection, prevention, and response.
 
