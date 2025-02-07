@@ -44,3 +44,6 @@ This repository is a collaborative effort by **RedTeamRD.org**, aimed at strengt
 ## 📸  
 
 ![Threat Hunting Community](https://raw.githubusercontent.com/MC1RANGER/Threat-Hunting-Team-THT-/main/THT%20Threat%20Hunting%20Team.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MC1RANGER/Threat-Hunting-Team-THT-/main/THT%20Threat%20Hunting%20Team.png" alt="Threat Hunting Community" width="500">
+</p>
