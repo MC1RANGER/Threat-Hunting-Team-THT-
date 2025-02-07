@@ -1,4 +1,4 @@
-#### 🛡️THREAT HUNTING TEAM (THT)🔍
+### 🛡️THREAT HUNTING TEAM (THT)🔍
 
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
 [![MITRE ATT&CK](https://img.shields.io/badge/Mapped%20to-MITRE%20ATT%26CK-orange.svg)](https://attack.mitre.org)
