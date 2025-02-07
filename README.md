@@ -9,7 +9,7 @@
 [![INTERPOL Cybercrime](https://img.shields.io/badge/INTERPOL%20Cybercrime-Response-green)](https://www.interpol.int/Crimes/Cybercrime/Cybercrime-threat-response)
 
 ## 🔥 About the Project
-This repository is a collaborative effort by **RedTeamRD.org**, aimed at strengthening **Cyber Threat Intelligence (CTI)** and **Threat Hunting** in corporate, government, and community environments.
+This repository is a collaborative effort by **RedTeamRD.org**, aimed at strengthening **Cyber Threat Intelligence (CTI)** and **Threat Hunting** in corporate, government, and community environments.  
 **We are a group of people passionate about Cyber ​​Threat Intelligence (CTI).  
 **We do not focus on specific threat actors, we are not motivated by money, but we do want to help people who are dedicated to this discipline.  
 **We are motivated by CTF, and the art of understanding how the adversary combines TTPs to orchestrate sophisticated attacks.  
