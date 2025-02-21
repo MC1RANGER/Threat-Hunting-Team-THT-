@@ -13,7 +13,10 @@
 [![FBI Cyber News](https://img.shields.io/badge/FBI%20Cyber%20News-Security-critical)](https://www.fbi.gov/investigate/cyber/news)
 [![ENISA Threats](https://img.shields.io/badge/ENISA%20Threat%20Intel-Threats-orange)](https://www.enisa.europa.eu/news?f%5B0%5D=topics%3A526#contentList)
 [![INTERPOL Cybercrime](https://img.shields.io/badge/INTERPOL%20Cybercrime-Response-green)](https://www.interpol.int/Crimes/Cybercrime/Cybercrime-threat-response)
-
+[![NCSC Threat Reports](https://img.shields.io/badge/NCSC%20Threat%20Reports-Intel-darkblue)](https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc)
+[![CISA Cybersecurity Advisories](https://img.shields.io/badge/CISA%20Cybersecurity-Advisories-red)](https://www.cisa.gov/news-events/cybersecurity-advisories)
+[![SentinelOne Crimeware](https://img.shields.io/badge/SentinelOne-Crimeware-purple)](https://www.sentinelone.com/labs/category/crimeware/)
+[![SentinelOne Security Intelligence](https://img.shields.io/badge/SentinelOne-Security%20Intel-black)](https://www.sentinelone.com/labs/category/security-intelligence/)
 
 ## 🔥 About the Project
 This repository is a collaborative effort by **RedTeamRD.org**, aimed at strengthening **Cyber Threat Intelligence (CTI)** and **Threat Hunting** in corporate, government, and community environments.  
