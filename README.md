@@ -1,5 +1,6 @@
 ### 🛡️THREAT HUNTING TEAM (THT)🔍
 
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Mc1Ranger-blue)](https://www.virustotal.com/gui/user/Mc1Ranger)
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
 [![Conference](https://img.shields.io/badge/Event-HackConRD.org-red.svg)](https://hackconrd.org)
 [![MITRE ATT&CK](https://img.shields.io/badge/Mapped%20to-MITRE%20ATT%26CK-orange.svg)](https://attack.mitre.org)
