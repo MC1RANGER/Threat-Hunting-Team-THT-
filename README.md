@@ -1,7 +1,11 @@
 ### 🛡️THREAT HUNTING TEAM (THT)🔍
 
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
+[![Conference](https://img.shields.io/badge/Event-HackConRD.org-red.svg)](https://hackconrd.org)
 [![MITRE ATT&CK](https://img.shields.io/badge/Mapped%20to-MITRE%20ATT%26CK-orange.svg)](https://attack.mitre.org)
+[![MITRE D3FEND](https://img.shields.io/badge/MITRE%20D3FEND-Defense%20Framework-purple)](https://d3fend.mitre.org/resources/)
+[![ADHD Project](https://img.shields.io/badge/ADHD%20Project-Active%20Defense-black)](https://adhdproject.github.io/#!index.md)
+
 [![CISA Alerts](https://img.shields.io/badge/CISA%20Alerts-Warning-red)](https://www.cisa.gov/stopransomware/alerts)
 [![NIST Cybersecurity News](https://img.shields.io/badge/NIST%20Cyber%20News-Important-blue)](https://csrc.nist.gov/news)
 [![FBI Cyber News](https://img.shields.io/badge/FBI%20Cyber%20News-Security-critical)](https://www.fbi.gov/investigate/cyber/news)
