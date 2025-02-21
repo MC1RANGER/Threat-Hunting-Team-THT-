@@ -1,6 +1,8 @@
 ### 🛡️THREAT HUNTING TEAM (THT)🔍
 
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-Mc1Ranger-blue)](https://www.virustotal.com/gui/user/Mc1Ranger)
+
+[![Maltego TRX](https://img.shields.io/badge/Maltego%20TRX-Transforms-yellow)](https://github.com/MaltegoTech/maltego-trx)
 [![Community](https://img.shields.io/badge/Community-RedTeamRD.org-blue.svg)](https://redteamrd.org)
 [![Conference](https://img.shields.io/badge/Event-HackConRD.org-red.svg)](https://hackconrd.org)
 [![MITRE ATT&CK](https://img.shields.io/badge/Mapped%20to-MITRE%20ATT%26CK-orange.svg)](https://attack.mitre.org)
@@ -11,6 +13,7 @@
 [![FBI Cyber News](https://img.shields.io/badge/FBI%20Cyber%20News-Security-critical)](https://www.fbi.gov/investigate/cyber/news)
 [![ENISA Threats](https://img.shields.io/badge/ENISA%20Threat%20Intel-Threats-orange)](https://www.enisa.europa.eu/news?f%5B0%5D=topics%3A526#contentList)
 [![INTERPOL Cybercrime](https://img.shields.io/badge/INTERPOL%20Cybercrime-Response-green)](https://www.interpol.int/Crimes/Cybercrime/Cybercrime-threat-response)
+
 
 ## 🔥 About the Project
 This repository is a collaborative effort by **RedTeamRD.org**, aimed at strengthening **Cyber Threat Intelligence (CTI)** and **Threat Hunting** in corporate, government, and community environments.  
